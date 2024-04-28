@@ -30,10 +30,13 @@
   
   - *interface:--*
   - ![Screenshot 2024-04-28 230928](https://github.com/Rjesh2006/Frpc_tunelling_via_cloudflared/assets/143868643/9154fcda-8d38-461a-b025-fe675aeaaf51)
+  - 
   - ![Screenshot 2024-04-28 230952](https://github.com/Rjesh2006/Frpc_tunelling_via_cloudflared/assets/143868643/a56cee5f-f3da-4e0e-a96f-025fb8c1e07b)
+  - *get this temporary domai-name and paste it on ur incognitowindow to check is it wprking or not*
+  - 
   - ![Screenshot 2024-04-28 231057](https://github.com/Rjesh2006/Frpc_tunelling_via_cloudflared/assets/143868643/a42cf638-8098-4e8d-a836-6a6bb2f74186)
   - ![image](https://github.com/Rjesh2006/Frpc_tunelling_via_cloudflared/assets/143868643/5ad53fb2-d1c4-4d9f-979f-c16bb1c3979a)
-
+  -  **Now u can say ur appllication is publicked  🥇 (sometimes😰 ----Read ( NOTE para) below for better understanding :---)**
 
 
 
