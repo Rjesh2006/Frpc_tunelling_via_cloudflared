@@ -43,6 +43,6 @@
 
 
 ***NOTE--📕*** 
-*whenever you will write this commands (  cloudflared tunnel --url http://localhost:3000) it will give u a temporary **Domain name** which will work as as a real domain name but the condition is your localhost server should be at running state so that the temporary (Domain name ) will forward all request to ur localhot server then other user can acess ur  web -application.*
+*whenever you will write this commands (  cloudflared tunnel --url http://localhost:3000) it will give u a temporary **Domain name** which will work as as a real domain name but the condition is your localhost server should be at running state so that the temporary (Domain name ) will forward all request to ur localhot server then other user can acess ur  web -application publicaly.*
 
   
