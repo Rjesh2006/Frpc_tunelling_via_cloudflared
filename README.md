@@ -5,7 +5,13 @@
 
  **Frpc_tunelling_via_cloudflared**
   - cloudflared: *Cloudflared is a tool by Cloudflare for creating secure tunnels between a user's network and Cloudflare's network. It helps bypass restrictions, enhances security, and allows secure access to 
-               internal resources from anywhere on the internet.*
+    internal resources from anywhere on the internet.*
+    - How it  works : [How it works
+Cloudflared establishes outbound connections (tunnels) between your resources and Cloudflare’s global network. Tunnels are persistent objects that route traffic to DNS records. Within the same tunnel, you can run as many ‘cloudflared’ processes (connectors) as needed. These processes will establish connections to Cloudflare and send traffic to the nearest Cloudflare data center.](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
+    ![image](https://github.com/user-attachments/assets/66bef186-9af4-4b12-916f-264598bbb88b)
+
+
+    
  - *Frpc----tunneling through     Cloud_Flared*
     - *The commmand is for (windows cmd) its a simple proccess here:--
     ```
