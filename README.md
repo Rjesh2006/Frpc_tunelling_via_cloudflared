@@ -9,6 +9,7 @@
     - How it  works : [How it works
 Cloudflared establishes outbound connections (tunnels) between your resources and Cloudflare’s global network. Tunnels are persistent objects that route traffic to DNS records. Within the same tunnel, you can run as many ‘cloudflared’ processes (connectors) as needed. These processes will establish connections to Cloudflare and send traffic to the nearest Cloudflare data center.](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
     ![image](https://github.com/user-attachments/assets/66bef186-9af4-4b12-916f-264598bbb88b)
+     - image refrence's: Cloudflare.com
 
 
     
